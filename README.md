@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
