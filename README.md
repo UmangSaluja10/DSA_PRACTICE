@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
@@ -29,7 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
