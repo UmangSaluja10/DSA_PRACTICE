@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
