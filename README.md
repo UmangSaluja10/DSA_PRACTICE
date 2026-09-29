@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0039-combination-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
