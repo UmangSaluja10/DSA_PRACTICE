@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -56,5 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
