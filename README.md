@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [3498-reverse-degree-of-a-string](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
