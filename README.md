@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
