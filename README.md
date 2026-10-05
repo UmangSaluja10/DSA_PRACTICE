@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
