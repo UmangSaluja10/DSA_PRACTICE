@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
