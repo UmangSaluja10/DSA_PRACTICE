@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
