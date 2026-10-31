@@ -165,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
