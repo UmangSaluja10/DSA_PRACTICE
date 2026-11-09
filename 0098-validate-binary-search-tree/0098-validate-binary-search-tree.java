@@ -14,13 +14,24 @@
  * }
  */
 class Solution {
-    public boolean check(TreeNode node, long min, long max){
+    // public boolean check(TreeNode node, long min, long max){
+    //     if(node==null)return true;
+    //     if(node.val<=min)return false;
+    //     if(node.val>=max)return false;
+    //     return check(node.left,min,node.val) && check(node.right,node.val,max);
+    // }
+    // public boolean isValidBST(TreeNode root) {
+    //     return check(root,Long.MIN_VALUE, Long.MAX_VALUE);
+    // }
+    public long prev = Long.MIN_VALUE;
+    public boolean checkInorder(TreeNode node){
         if(node==null)return true;
-        if(node.val<=min)return false;
-        if(node.val>=max)return false;
-        return check(node.left,min,node.val) && check(node.right,node.val,max);
+        if(!checkInorder(node.left))return false;
+        if(node.val<=prev)return false;
+        prev = node.val;
+        return checkInorder(node.right);
     }
     public boolean isValidBST(TreeNode root) {
-        return check(root,Long.MIN_VALUE, Long.MAX_VALUE);
+        return checkInorder(root);
     }
 }
