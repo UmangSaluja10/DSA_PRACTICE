@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
