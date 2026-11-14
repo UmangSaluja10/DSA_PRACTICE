@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
