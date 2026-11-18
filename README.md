@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
