@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/0069-sqrtx) |
+| [3360-stone-removal-game](https://github.com/UmangSaluja10/DSA_PRACTICE/tree/master/3360-stone-removal-game) |
 ## Newton's Method
 |  |
 | ------- |
